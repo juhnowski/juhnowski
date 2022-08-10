@@ -2,6 +2,7 @@
 - 👀 I’m interested in bioengineering and nuclear medicine
 - 🌱 I’m currently learning functional programming
 - 💞️ I’m looking to collaborate on software development
+- 📢 i'm looking for a job
 - 📫 How to reach me juhnowski@gmail.com
 
 <!---
