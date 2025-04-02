@@ -47,10 +47,10 @@
 Нижегородский Государственный Технический Университет | Магистр технической физики | 2001
 
 ## Курсы:
-- Coursera: "Architecting with Google Kubernetes Engine", "Building Scalable Java Microservices" | 2019
+- Coursera: "Architecting with Google Kubernetes Engine", "Building Scalable Java Microservices", "Data Visualization" | 2019
 - IBM: "Programming a Quantum Computer with Qiskit" | 2020
 - Google Cloud: "Machine Learning Engineering for Production" | 2021
-- 
+- University of Maryland, College Park: Криптография
 
 ## Технологии
 - Языки: Python, Java, C/C++, R, SQL, Lua, Bash
@@ -60,17 +60,23 @@
 - DevOps: Git, Jenkins, Terraform, Prometheus
 
 ## Ключевые достижения
-Разработал архитектуру распределенной ML-платформы для прогноза спроса (Python, Spark).
-Внедрил автоматическую классификацию документов для юридического отдела (NLP, spaCy).
-Оптимизировал обработку данных в реальном времени для телеком-оператора (200 Гб/сек).
+- Разработал архитектуру распределенной ML-платформы для прогноза спроса (Python, Spark).
+- Внедрил автоматическую классификацию документов для юридического отдела (NLP, spaCy).
+- Оптимизировал обработку данных в реальном времени для телеком-оператора (200 Гб/сек).
 
 ## Дополнительная информация
-Публикации: ["АЛГОРИТМ ПРОГНОЗИРОВАНИЯ ТРАЕКТОРИИ ДВИЖЕНИЯ ЦЕЛИ"](https://cyberleninka.ru/article/n/algoritm-prognozirovaniya-traektorii-dvizheniya-tseli), ["Прогнозирование движения цели по данным телеавтомата сопровождения"](https://cyberleninka.ru/article/n/prognozirovanie-dvizheniya-tseli-po-dannym-teleavtomata-soprovozhdeniya).
+Публикации: 
+["АЛГОРИТМ ПРОГНОЗИРОВАНИЯ ТРАЕКТОРИИ ДВИЖЕНИЯ ЦЕЛИ"](https://cyberleninka.ru/article/n/algoritm-prognozirovaniya-traektorii-dvizheniya-tseli), 
+["Прогнозирование движения цели по данным телеавтомата сопровождения"](https://cyberleninka.ru/article/n/prognozirovanie-dvizheniya-tseli-po-dannym-teleavtomata-soprovozhdeniya).
+"Проблемы и варианты корпоративной цифровой трансформации"
+"Детерминированное исследование повреждений нуклеозидов"
 
-## Увлечения: Исследование генеративных моделей (GAN, Diffusion), участие в хакатонах по AI и Акселераторах Сбер, Газпром.
+## Увлечения: 
+- Исследование генеративных моделей (GAN, Diffusion)
+- Участие в хакатонах по AI и Акселераторах Сбер, Газпром.
 
 # Готовность к сотрудничеству
-## Моя Команда
+## Команда единомышленников
 - Solution Architect
 - AI Product Manager
 - Business Analyst
