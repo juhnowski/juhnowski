@@ -50,6 +50,7 @@
 - Coursera: "Architecting with Google Kubernetes Engine", "Building Scalable Java Microservices" | 2019
 - IBM: "Programming a Quantum Computer with Qiskit" | 2020
 - Google Cloud: "Machine Learning Engineering for Production" | 2021
+- 
 
 ## Технологии
 - Языки: Python, Java, C/C++, R, SQL, Lua, Bash
@@ -64,11 +65,12 @@
 Оптимизировал обработку данных в реальном времени для телеком-оператора (200 Гб/сек).
 
 ## Дополнительная информация
-Публикации: ["АЛГОРИТМ ПРОГНОЗИРОВАНИЯ ТРАЕКТОРИИ ДВИЖЕНИЯ ЦЕЛИ"](https://cyberleninka.ru/article/n/algoritm-prognozirovaniya-traektorii-dvizheniya-tseli)
-Увлечения: Исследование генеративных моделей (GAN, Diffusion), участие в хакатонах по AI и Акселераторах Сбер, Газпром.
+Публикации: ["АЛГОРИТМ ПРОГНОЗИРОВАНИЯ ТРАЕКТОРИИ ДВИЖЕНИЯ ЦЕЛИ"](https://cyberleninka.ru/article/n/algoritm-prognozirovaniya-traektorii-dvizheniya-tseli), ["Прогнозирование движения цели по данным телеавтомата сопровождения"](https://cyberleninka.ru/article/n/prognozirovanie-dvizheniya-tseli-po-dannym-teleavtomata-soprovozhdeniya).
+
+## Увлечения: Исследование генеративных моделей (GAN, Diffusion), участие в хакатонах по AI и Акселераторах Сбер, Газпром.
 
 # Готовность к сотрудничеству
-## Команда
+## Моя Команда
 - Solution Architect
 - AI Product Manager
 - Business Analyst
@@ -94,7 +96,7 @@
 - UX-оптимизация для сложных AI-алгоритмов (обратная связь с пользователем при ошибках модели)
 - Дизайн персонализированных рекомендательных систем
 - Прототипирование voice interfaces и multimodal UI
-- Проектирование interfaceless
+- Прототипирование генеративного interfaceless
 
 ## Возможности команды
 - Разработка «умных» интерфейсов с поддержкой AI-фич (динамическая адаптация, персонализация)
