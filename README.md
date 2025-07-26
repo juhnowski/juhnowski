@@ -1,5 +1,5 @@
 # Юхновский Илья Александрович
-# Solushen / AI-Архитектор
+# Solution architect / Solution AI architect
 📍 Россия | ✉️ juhnowski@gmail.com | 💻 github.com/juhnowski | Telegram: @juhnowski
 
 ## Профиль
