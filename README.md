@@ -72,7 +72,6 @@ System AI Architect
 
 ## Дополнительная информация
 Публикации: 
-["АЛГОРИТМ ПРОГНОЗИРОВАНИЯ ТРАЕКТОРИИ ДВИЖЕНИЯ ЦЕЛИ"](https://cyberleninka.ru/article/n/algoritm-prognozirovaniya-traektorii-dvizheniya-tseli), 
 ["Прогнозирование движения цели по данным телеавтомата сопровождения"](https://cyberleninka.ru/article/n/prognozirovanie-dvizheniya-tseli-po-dannym-teleavtomata-soprovozhdeniya).
 "Проблемы и варианты корпоративной цифровой трансформации"
 "Детерминированное исследование повреждений нуклеозидов"
