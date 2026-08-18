@@ -1,6 +1,6 @@
 # Juhnowski Ilya
 # System(Rust) / Solution architect
-📍 Azerbaijan | ✉️ juhnowski@gmail.com | 💻 github.com/juhnowski | Telegram: @juhnowski
+📍 Nizhniy Novgorod, Russia | ✉️ juhnowski@gmail.com | 💻 github.com/juhnowski | Telegram: @juhnowski
 
 # Cources:
 - Coursera: ["Architecting with Google Kubernetes Engine"](https://coursera.org/share/c1bb91590ec9db3398239bf9a6f29ce5), ["Building Scalable Java Microservices"](https://coursera.org/share/c0ab2668f88c76382ec56aed88169145), ["Data Visualization"](https://coursera.org/share/7a19bd34231ab02f33c83e26436a4189) | 2019
